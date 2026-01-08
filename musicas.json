@@ -1,0 +1,8 @@
+{
+    "caminho": "/caminho/para/diretorio",  
+    "musicas": [
+        {"Nome_musica": "", "Artista":  "", "Link": ""},
+        {"Nome_musica": "", "Artista":  "", "Link": ""},
+        {"Nome_musica": "", "Artista":  "", "Link": ""}
+    ]
+}
